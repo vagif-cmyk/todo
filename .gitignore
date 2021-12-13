@@ -1,9 +1,5 @@
 .idea
-.eslintrc.js
-.editorconfig
-.vscode
-.gitlab-ci.yml
+.DS_store
 node_modules
+
 /dist
-package.json
-package-lock.json
